@@ -1,0 +1,41 @@
+.HomeContainer {
+  background-color: #152850;
+  height: 100vh;
+  padding: 35px;
+}
+
+.header-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logout-btn {
+  height: 30px;
+  width: 90px;
+  background-color: transparent;
+  border: 2px solid #c3cad9;
+  color: #c3cad9;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.heading {
+  font-family: 'Roboto';
+  color: #f8fafc;
+  font-size: 45px;
+  text-align: center;
+}
+
+.digitalCard {
+  height: 300px;
+}
+
+.digitalCard-con {
+  text-align: center;
+}
+
+.logo-img {
+  height: 50px;
+}
